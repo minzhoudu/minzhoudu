@@ -6,10 +6,8 @@
 - 📫 How to reach me:
   E-Mail: jovanovix.p@gmail.com
   LinkedIn: https://www.linkedin.com/in/pavle-jovanovic-846631197/
-<!--
+
 - Personal website: https://www.jovanovic-pavle.com/
--->
-  
 
 <h3 align="left">My Social Media:</h3>
 <p align="left">
